@@ -1,0 +1,2 @@
+class classificationsController < ApplicationController
+end
